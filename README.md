@@ -132,7 +132,7 @@ This Exploratory Data Analysis provides meaningful insights into Spotify's audio
 
 ## 👨‍💻 Author
 
-**Subha**
+**Subha S**
 
 Artificial Intelligence & Data Science Student
 
